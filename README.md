@@ -22,9 +22,7 @@ Ce projet est une application en C simulant un système de gestion de file d’a
 - Possibilité d’annuler le dernier service.
 ![Capture d'écran de l'application](Screenshots/Screenshot_460.png)
 ### 5. 📊 Statistiques
-- Nombre total de clients servis.
-- Nombre de clients en attente.
-- Détails sur les types de clients (VIP, urgences...).
+- Ca donne aussi l'historique des clients servis.
 
 ### 6. ❌ Quitter
 - Nettoyage de la mémoire dynamique et sortie propre du programme.
