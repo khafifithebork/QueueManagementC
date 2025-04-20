@@ -3,7 +3,7 @@
 Ce projet est une application en C simulant un système de gestion de file d’attente pour un service client. Il permet de gérer efficacement les clients ordinaires et prioritaires (VIP, urgences), avec des fonctionnalités comme : ajout, traitement, historique et statistiques.
 
 ## 🚀 Fonctionnalités
-
+![Capture d'écran de l'application](Screenshots/Screenshot_454.png)
 ### 1. 📥 Ajouter un client
 - Ajout de clients normaux ou prioritaires.
 - Les clients normaux sont insérés dans une file FIFO.
