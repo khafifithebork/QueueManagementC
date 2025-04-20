@@ -1,6 +1,6 @@
 # 🧾 Gestionnaire de File d’Attente pour un Service Client
 
-Ce projet est une application en C simulant un système de gestion de file d’attente pour un service client. Il permet de gérer efficacement les clients ordinaires et prioritaires (VIP, urgences), avec des fonctionnalités complètes : ajout, traitement, historique et statistiques.
+Ce projet est une application en C simulant un système de gestion de file d’attente pour un service client. Il permet de gérer efficacement les clients ordinaires et prioritaires (VIP, urgences), avec des fonctionnalités comme : ajout, traitement, historique et statistiques.
 
 ## 🚀 Fonctionnalités
 
